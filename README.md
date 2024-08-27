@@ -5,15 +5,15 @@
 ## Auftrag:
 
 ### Abgabe 31.8.24 23:59 (1 Woche nach letztem Modul Tag)
-Git Repo (Es zählt das Commit Datum < Abgabe)  
+Git Repo (Es zählt das Commitdatum < Abgabe)  
 URL zur im Internet erreichbaren Website  
 ### Mussanforderungen  
 Inhaltlich muss es ein vollständiges CV sein.  
-Inkl. Persönliche Daten, Portrait, Berufserfahrung, Ausbildung, Sonstige Skills. 1  
+Inkl. Persönliche Daten, Portrait, Berufserfahrung, Ausbildung, sonstige Skills. 1  
 Es muss ordentlich aussehen in Google Chrome und Edge. 1  
 Die Website muss übers Internet aufrufbar sein. 1  
 Man muss über ein Kontaktformular eine Nachricht an dich «senden» können.  
-Eingabe des Formulars, Senden der Formular Daten an Server. 1  
+Eingabe des Formulars, Senden der Formulardaten an Server. 1  
 ### Sollanforderungen  
 Es muss ansprechend aussehen. Macht es so, dass ihr den Link bei der nächsten Bewerbung einsenden könntet. 0.5  
 Die Website schneidet mit einem guten Page-Score ab. (Google Lighthouse Extension Score) 0.5  
@@ -43,5 +43,9 @@ einzufegen
 
 Die webseite ist unter: https://cv-display.onrender.com/ zu erreichen, durch de natur von render.com kann 
 es beim erstmaligen Laden zu Verzögerungen kommen
+
+### Lighthouse Einschätzung
+Ich habe das Lighthouse Plugin laufen lassen und dieses 
+[Ergebnis](https://pagespeed.web.dev/analysis/https-cv-display-onrender-com/77bt3gewyh?form_factor=mobile&category=performance&category=accessibility&category=best-practices&category=seo&hl=de&utm_source=lh-chrome-ext) erhalten
 
 
