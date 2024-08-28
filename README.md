@@ -43,7 +43,8 @@ In den commits ist zu sehen, dass die Anpassung fur den Render darin lag in `/pu
 einzufegen
 
 Die webseite ist unter: https://cv-display.onrender.com/ zu erreichen, durch de natur von render.com kann 
-es beim erstmaligen Laden zu Verzögerungen kommen
+es beim erstmaligen Laden zu Verzögerungen kommen (Your free instance will spin down with inactivity, which can delay 
+requests by 50 seconds or more.)
 
 ### Lighthouse Einschätzung
 Ich habe das Lighthouse Plugin laufen lassen und dieses 
