@@ -12,14 +12,15 @@ Inhaltlich muss es ein vollständiges CV sein.
 Inkl. Persönliche Daten, Portrait, Berufserfahrung, Ausbildung, sonstige Skills. 1  
 Es muss ordentlich aussehen in Google Chrome und Edge. 1  
 Die Website muss übers Internet aufrufbar sein. 1  
-Man muss über ein Kontaktformular eine Nachricht an dich «senden» können.  
-Eingabe des Formulars, Senden der Formulardaten an Server. 1  
+Man muss über ein Kontaktformular eine Nachricht an dich «senden» können. Eingabe des Formulars, Senden der 
+Formulardaten an Server. 1  
 ### Sollanforderungen  
 Es muss ansprechend aussehen. Macht es so, dass ihr den Link bei der nächsten Bewerbung einsenden könntet. 0.5  
 Die Website schneidet mit einem guten Page-Score ab. (Google Lighthouse Extension Score) 0.5  
 Die Website ist Responsive und sieht auch auf dem Handy ordentlich aus. 0.5  
 Das an den Server gesendete Formular soll entweder in ein JSON-File lokal auf dem Server gespeichert werden oder es
 wird effektiv eine Mail an dich versendet. 0.5  
+
 Das gibt eine Maximalpunktzahl von 6 Punkten  
 
 ### Restriktionen  
