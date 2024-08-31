@@ -1,5 +1,5 @@
 # Modularbeit
-### Abgabe: xx.xx.xxxx
+### Abgabe: 31.8.2024
 
 ---
 ## Auftrag:
@@ -42,12 +42,6 @@ Das hosting nutzt das folgende [Repo](https://github.com/Asterisk333/php-laravel
 In den commits ist zu sehen, dass die Anpassung fur den Render darin lag in `/public/` den code aus diesem Repo
 einzufegen
 
-Die webseite ist unter: https://cv-display.onrender.com/ zu erreichen, durch de natur von render.com kann 
+Die webseite ist unter: [https://cv-display.onrender.com/](https://cv-display.onrender.com/) zu erreichen, durch de natur von render.com kann 
 es beim erstmaligen Laden zu Verzögerungen kommen (Your free instance will spin down with inactivity, which can delay 
 requests by 50 seconds or more.)
-
-### Lighthouse Einschätzung
-Ich habe das Lighthouse Plugin laufen lassen und dieses 
-[Ergebnis](https://pagespeed.web.dev/analysis/https-cv-display-onrender-com/77bt3gewyh?form_factor=mobile&category=performance&category=accessibility&category=best-practices&category=seo&hl=de&utm_source=lh-chrome-ext) erhalten
-
-
